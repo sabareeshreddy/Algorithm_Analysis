@@ -7,15 +7,6 @@
 
 ---
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/sabareeshreddy/Algorithm-Analysis.svg)](https://github.com/sabareeshreddy/Algorithm-Analysis/pulls)
-[![GitHub issues](https://img.shields.io/github/issues/sabareeshreddy/Algorithm-Analysis.svg)](https://github.com/sabareeshreddy/Algorithm-Analysis/issues)
-[![GitHub contributors](https://img.shields.io/github/contributors/sabareeshreddy/Algorithm-Analysis.svg)](https://github.com/sabareeshreddy/Algorithm-Analysis/graphs/contributors)
-
-[![GitHub license](https://img.shields.io/github/license/sabareeshreddy/Algorithm-Analysis.svg)](https://github.com/sabareeshreddy/Algorithm-Analysis/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/sabareeshreddy/Algorithm-Analysis.svg)](https://github.com/sabareeshreddy/Algorithm-Analysis/releases)
-[![GitHub repo size](https://img.shields.io/github/repo-size/sabareeshreddy/Algorithm-Analysis)](https://github.com/sabareeshreddy/Algorithm-Analysis)
-
-[![Code of Conduct](https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat)](https://github.com/sabareeshreddy/Algorithm-Analysis/blob/master/.github/CODE_OF_CONDUCT.md)
 [![Open Source Love svg1](https://img.shields.io/static/v1?label=Open&message=Source%20%E2%9D%A4%EF%B8%8F&color=blueviolet)](https://github.com/sabareeshreddy/Algorithm-Analysis/blob/master/.github/CONTRIBUTING.md)
 
 ## Motivation
