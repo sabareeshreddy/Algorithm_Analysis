@@ -6,9 +6,6 @@
 </p>
 
 ---
-
-[![Open Source Love svg1](https://img.shields.io/static/v1?label=Open&message=Source%20%E2%9D%A4%EF%B8%8F&color=blueviolet)](https://github.com/sabareeshreddy/Algorithm-Analysis/blob/master/.github/CONTRIBUTING.md)
-
 ## Motivation
 
 This project helps in understanding the time complexity, that is to find out and analyse the time taken for each of the sorting algorithms to complete sorting a fixed or random dataset. Analysis of these algorithms help us in determining the quickest and most effective method to sort data under various circumstances and scenarios.
@@ -27,13 +24,13 @@ git clone https://github.com/sabareeshreddy/Algorithm-Analysis.git
 
 ## Usage
 
-Once you have all the files on your local system, you can launch it by double tapping the `Sorting_visualizer.py` file present in the **`src`** folder. You can do this only if you have the _python launcher_ installed.
+Once you have all the files on your local system, you can launch it by double-tapping the `Sorting_visualizer.py` file present in the **`src`** folder. You can do this only if you have the _python launcher_ installed.
 
 Else, `cd/` to the src folder on your terminal and type `python Sorting_visualizer.py`.
 
 Enter the number of terms to be sorted and select your sorting algorithm.
 
-**Note** : Once visualisation is completed, you can find all the information about it present within the `Sorting_algorithm_data.csv` file created in the src folder.
+**Note**: Once the visualization is completed, you can find all the information about it present within the `Sorting_algorithm_data.csv` file created in the src folder.
 
 ## Demo
 
