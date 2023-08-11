@@ -42,4 +42,6 @@ Enter the number of terms to be sorted and select your sorting algorithm.
     <img src="assets/Data.PNG" alt="Data" width = "500px" border="0">
     <br>Data collected
 </p>
+## License
+Lock_Unlock_A_Computer_Using_RFID is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Algorithm_Analysis/blob/main/LICENSE) file for more information.
 
